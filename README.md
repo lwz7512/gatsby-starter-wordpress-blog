@@ -5,8 +5,21 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby WordPress blog starter
+  Gatsby WordPress blog starter with Patches
 </h1>
+
+## 🧧 Features
+
+- [issue 29535](https://github.com/gatsbyjs/gatsby/issues/29535) temporary fix using [fix-gsw.js](./fix-gsw.js)
+- possilbe more ...
+
+
+A workaround for this issue temporarily is using my [patched starter](https://github.com/lwz7512/gatsby-starter-wordpress-blog):
+
+```
+% gatsby new my-gatsby-blog-site https://github.com/lwz7512/gatsby-starter-wordpress-blog
+```
+
 
 Kick off your wordpress gatsby project with this blog boilerplate. This starter ships with the main Gatsby Wordpress configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
