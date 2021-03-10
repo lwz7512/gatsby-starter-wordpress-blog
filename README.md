@@ -8,6 +8,10 @@
   Gatsby WordPress blog starter with Patches
 </h1>
 
+## 🔔 Updates
+
+the issue fixed at Feb 24 2021, so this patch no longer applicable.
+
 ## 🧧 Features
 
 - [issue 29535](https://github.com/gatsbyjs/gatsby/issues/29535) temporary fix using [fix-gsw.js](./fix-gsw.js)
